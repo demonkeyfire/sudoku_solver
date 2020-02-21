@@ -2,15 +2,17 @@
 
 ## Introduction
 
-A python script to solve a Sudoku puzzle.
+A python script that will take in a text file with an unsolved sudoku puzzle and output the instructions of how to solve the sudoku with images of the completed sudokus.
 
 ## Working document
 
-A python file 'test.py' will be used to test the ideas gradually before making any significant files.
+A python file 'test.py' will be used to test solution ideas.
+
+The input file is called 'input.txt' and holds the unsolved sudoku puzzle.
 
 ## Output
 
-A text document that descibes the numbers that are input and why they are input.
+A text file that shows the sudoku puzzle as it is solved number by number and the instructions for each number.
 
 ## Final Product
 
