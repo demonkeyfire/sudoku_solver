@@ -50,14 +50,14 @@ def single_number(sudoku, default, k):
 # ----------------------------------SOLVING FOR TWO MISSING VALUES---------------------------------
 def double_number(sudoku, default):
     # Finding the 0's in a row
-    for i in range(0,9):
-        if i==0:
-            print("This is the row:")
-            print(sudoku[:,i])
-            for j in np.argwhere(sudoku[:,i]==0):
-                for k in sudoku[int(j),:]:
-                    if k==1:
-                        continue
+    for i in range(0,9): # Searching through all columns
+        if i==0: # Selecting first column (0)
+            for j in np.setdiff1d(default,sudoku[:,i]): # cycling through missing numbers
+                if j==1: # Selecting the missing number 1
+                    for k in np.argwhere(sudoku[:,i]==0): # cycling through missing number column locations
+                        if j in sudoku[k,:]: # Listing rows that have the number 1 in
+                            print(sudoku[k,:])
+                
 
 
 # -------------------------------------------MAIN PROGRAM------------------------------------------
