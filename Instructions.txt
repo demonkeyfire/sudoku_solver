@@ -1,4 +1,4 @@
-The original puzzle:
+Original puzzle:
 0 0 9 0 0 1 2 6 4
 0 0 0 5 4 0 0 0 8
 0 8 4 9 3 6 0 0 1
@@ -9,7 +9,7 @@ The original puzzle:
 7 0 0 0 9 3 0 0 0
 3 9 8 2 0 0 5 0 0
 
-At location: column-1 and row-2 put the number 1
+Location column-1/row-2 insert 1
 0 0 0 0 0 0 0 0 0
 1 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
@@ -19,8 +19,9 @@ At location: column-1 and row-2 put the number 1
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 42
 
-At location: column-1 and row-6 put the number 9
+Location column-1/row-6 insert 9
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
@@ -30,8 +31,9 @@ At location: column-1 and row-6 put the number 9
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 41
 
-At location: column-3 and row-8 put the number 1
+Location column-3/row-8 insert 1
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
@@ -41,8 +43,9 @@ At location: column-3 and row-8 put the number 1
 0 0 0 0 0 0 0 0 0
 0 0 1 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 40
 
-At location: column-3 and row-2 put the number 6
+Location column-3/row-2 insert 6
 0 0 0 0 0 0 0 0 0
 0 0 6 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
@@ -52,8 +55,9 @@ At location: column-3 and row-2 put the number 6
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 39
 
-At location: column-3 and row-4 put the number 7
+Location column-3/row-4 insert 7
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
@@ -63,8 +67,9 @@ At location: column-3 and row-4 put the number 7
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 38
 
-At location: column-4 and row-4 put the number 3
+Location column-4/row-4 insert 3
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
@@ -74,8 +79,9 @@ At location: column-4 and row-4 put the number 3
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 37
 
-At location: column-5 and row-6 put the number 1
+Location column-5/row-6 insert 1
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
@@ -85,8 +91,9 @@ At location: column-5 and row-6 put the number 1
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 36
 
-At location: column-6 and row-9 put the number 4
+Location column-6/row-9 insert 4
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
@@ -96,8 +103,9 @@ At location: column-6 and row-9 put the number 4
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 4 0 0 0
+The remaining numbers to be solved: 35
 
-At location: column-7 and row-8 put the number 4
+Location column-7/row-8 insert 4
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
@@ -107,8 +115,9 @@ At location: column-7 and row-8 put the number 4
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 4 0 0
 0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 34
 
-At location: column-7 and row-4 put the number 6
+Location column-7/row-4 insert 6
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
@@ -118,8 +127,9 @@ At location: column-7 and row-4 put the number 6
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 33
 
-At location: column-7 and row-2 put the number 9
+Location column-7/row-2 insert 9
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 9 0 0
 0 0 0 0 0 0 0 0 0
@@ -129,8 +139,9 @@ At location: column-7 and row-2 put the number 9
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 32
 
-At location: column-8 and row-9 put the number 1
+Location column-8/row-9 insert 1
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
@@ -140,8 +151,9 @@ At location: column-8 and row-9 put the number 1
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 1 0
+The remaining numbers to be solved: 31
 
-At location: column-8 and row-2 put the number 3
+Location column-8/row-2 insert 3
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 3 0
 0 0 0 0 0 0 0 0 0
@@ -151,8 +163,9 @@ At location: column-8 and row-2 put the number 3
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 30
 
-At location: column-8 and row-5 put the number 8
+Location column-8/row-5 insert 8
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
@@ -162,8 +175,9 @@ At location: column-8 and row-5 put the number 8
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 29
 
-At location: column-9 and row-9 put the number 7
+Location column-9/row-9 insert 7
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
@@ -173,3 +187,340 @@ At location: column-9 and row-9 put the number 7
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 7
+The remaining numbers to be solved: 28
+
+Location row-1/column-2 insert 3
+0 3 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 27
+
+Location row-1/column-1 insert 5
+5 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 26
+
+Location row-2/column-2 insert 7
+0 0 0 0 0 0 0 0 0
+0 7 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 25
+
+Location row-3/column-1 insert 2
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 24
+
+Location row-3/column-8 insert 5
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 5 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 23
+
+Location row-3/column-7 insert 7
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 7 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 22
+
+Location row-4/column-9 insert 5
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 5
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 21
+
+Location row-6/column-6 insert 8
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 8 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 20
+
+Location row-7/column-9 insert 3
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 3
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 19
+
+Location row-7/column-2 insert 4
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 4 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 18
+
+Location row-8/column-2 insert 5
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 5 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 17
+
+Location row-8/column-4 insert 8
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 8 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 16
+
+Location row-9/column-5 insert 6
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 6 0 0 0 0
+The remaining numbers to be solved: 15
+
+Location column-1/row-4 insert 8
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+8 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 14
+
+Location column-2/row-5 insert 2
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 2 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 13
+
+Location column-3/row-7 insert 2
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 2 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 12
+
+Location column-3/row-6 insert 5
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 5 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 11
+
+Location column-4/row-5 insert 6
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 6 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 10
+
+Location column-4/row-1 insert 7
+0 0 0 7 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 9
+
+Location column-5/row-4 insert 2
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 2 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 8
+
+Location column-5/row-5 insert 7
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 7 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 7
+
+Location column-5/row-1 insert 8
+0 0 0 0 8 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 6
+
+Location column-6/row-2 insert 2
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 2 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 5
+
+Location column-6/row-5 insert 5
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 4
+
+Location column-7/row-6 insert 3
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 3 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 3
+
+Location column-8/row-8 insert 2
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 2 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 2
+
+Location column-9/row-6 insert 2
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 2
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+The remaining numbers to be solved: 1
+
+Location column-9/row-8 insert 6
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 6
+0 0 0 0 0 0 0 0 0
+FINISHED!
